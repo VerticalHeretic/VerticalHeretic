@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=VerticalHeretic&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![VerticalHeretic's GitHub stats](https://github-readme-stats.vercel.app/api?username=VerticalHeretic&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![VerticalHeretic's GitHub stats](https://github-readme-stats.vercel.app/api?username=VerticalHeretic&show_icons=true&theme=catppuccin_latte )](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
